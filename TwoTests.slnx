@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
+  <Project Path="Tests.E2E/Tests.E2E.csproj" />
+  <Project Path="Features/Business.Features.csproj" />
+  <Project Path="Tests.Integration/Tests.Integration.csproj" />
+</Solution>

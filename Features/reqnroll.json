@@ -1,0 +1,12 @@
+{
+  "$schema": "https://schemas.reqnroll.net/reqnroll-config-latest.json",
+
+  "bindingAssemblies": [
+    {
+      "assembly": "Tests.E2E"
+    },
+    {
+      "assembly": "Tests.Integration"
+    }
+  ]
+}
