@@ -3,7 +3,7 @@
 
   "bindingAssemblies": [
     {
-      "assembly": "Tests.E2E"
+      "assembly": "Tests.EToE"
     },
     {
       "assembly": "Tests.Integration"
