@@ -1,6 +1,6 @@
 ﻿using Reqnroll;
 
-namespace Tests.E2E.StepDefinitions;
+namespace Tests.EToE.StepDefinitions;
 
 [Binding]
 public sealed class SpendingCreation(Reqnroll.IReqnrollOutputHelper outputHelper)

@@ -2,7 +2,7 @@
   <Folder Name="/Solution Items/">
     <File Path=".editorconfig" />
   </Folder>
+  <Project Path="Business.Specification/Business.Specification.csproj" Id="1dc34d2a-f610-4d44-aa9a-0211ec1e8b9a" />
   <Project Path="Tests.EToE/Tests.EToE.csproj" />
-  <Project Path="Business.Features/Business.Features.csproj" />
   <Project Path="Tests.Integration/Tests.Integration.csproj" />
 </Solution>
